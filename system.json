@@ -272,7 +272,7 @@
     "background": "systems/daggerheart/assets/logos/FoundrybornBackgroundLogo.png",
     "primaryTokenAttribute": "resources.hitPoints",
     "secondaryTokenAttribute": "resources.stress",
-    "url": "https://PARKSEONGKWON/hosted/system/repo/",
-    "manifest": "https://PARKSEONGKWON/hosted/system/repo/system.json",
-    "download": "https://PARKSEONGKWON/packaged/download/archive.zip"
+    "url": "https://github.com/PARKSEONGKWON/daggerheart",
+    "manifest": "https://raw.githubusercontent.com/PARKSEONGKWON/daggerheart/main/system.json",
+    "download": "https://github.com/PARKSEONGKWON/daggerheart/archive/refs/heads/main.zip"
 }
